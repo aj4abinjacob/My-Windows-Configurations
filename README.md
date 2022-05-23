@@ -26,9 +26,7 @@ notepad $Profile
 A notepad will open, paste the commands below after replacing the file location with wherever you have saved the scripts and save it.
 The function format is
 
-	“ 
 function python_file_name{ python "file location" }
-“
 
 For example
 	function combiner { python "C:\Users\abnjc\WorkScripts\FileCombiner.py" }   
