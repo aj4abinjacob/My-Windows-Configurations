@@ -32,8 +32,11 @@ The function format is
 function python_file_name{ python "file location" }
 
 For example
+
+```
 function combiner { python "C:\Users\abnjc\WorkScripts\FileCombiner.py" }  
- function splitfile { python "C:\Users\abnjc\WorkScripts\Splitfiletest.py" }
+function splitfile { python "C:\Users\abnjc\WorkScripts\Splitfiletest.py" }
+```
 
 Note:- The Shortcut shouldn’t have space between the words
 Valid : function file_combiner { python "C:\Users\abnjc\WorkScripts\FileCombiner.py" }  
