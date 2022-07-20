@@ -1,4 +1,4 @@
-# Windows-Shortcuts
+# Windows Configurations
 
 ### Enable show more options by default while right clicking
 
