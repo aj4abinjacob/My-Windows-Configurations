@@ -37,7 +37,7 @@ Valid : function file_combiner { python "C:\Users\abnjc\WorkScripts\FileCombiner
 Not Valid : function file combiner { python “C:\Users\abnjc\WorkScripts\FileCombiner.py"}
 
 ## Windows Productivity tools
-1. [Windows PowerToys](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD)
+1. [Windows PowerToys](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD){:target="_blank"}
 
 
 
