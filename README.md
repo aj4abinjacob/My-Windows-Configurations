@@ -42,6 +42,16 @@ Note:- The Shortcut shouldn’t have space between the words
 Valid : function file_combiner { python "C:\Users\abnjc\WorkScripts\FileCombiner.py" }  
 Not Valid : function file combiner { python “C:\Users\abnjc\WorkScripts\FileCombiner.py"}
 
+## Anaconda powershell activation
+ Open a Anaconda Powershell Prompt from Start Menu.
+ ```
+ conda init powershell
+ ```
+ Additional note: By default conda will autoactivate itself, when we open terminal. If you prefer not, then disable auto-activation with:
+```
+conda config --set auto_activate_base false
+```
+> https://stackoverflow.com/questions/64149680/how-to-activate-conda-environment-from-powershell
 ## Windows Productivity tools
 
 1. <a href="https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD" target="_blank">Windows PowerToys</a>
